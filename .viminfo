@@ -8,9 +8,9 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
 :q!
 :Q!
-:wq!
 :Wq!
 
 # Search String History (newest to oldest):
@@ -24,81 +24,73 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/id_rsa.pub
-'1  108  0  ~/.git/COMMIT_EDITMSG
-'2  1  40  ~/randomdir/anotherrandomfile.txt
-'3  1  19  ~/file.html
-'4  1  18  ~/file.xml
-'5  1  31  ~/text.txt
+'0  1  4  ~/text.txt
+'1  1  0  ~/.ssh/id_rsa.pub
+'2  108  0  ~/.git/COMMIT_EDITMSG
+'3  1  40  ~/randomdir/anotherrandomfile.txt
+'4  1  19  ~/file.html
+'5  1  18  ~/file.xml
 
 # Jumplist (newest first):
+-'  1  4  ~/text.txt
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  108  0  ~/.git/COMMIT_EDITMSG
 -'  1  0  ~/.git/COMMIT_EDITMSG
 -'  1  40  ~/randomdir/anotherrandomfile.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  40  ~/randomdir/anotherrandomfile.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  108  0  ~/.git/COMMIT_EDITMSG
 -'  1  0  ~/.git/COMMIT_EDITMSG
 -'  1  40  ~/randomdir/anotherrandomfile.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  40  ~/randomdir/anotherrandomfile.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  19  ~/file.html
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
 -'  1  18  ~/file.xml
--'  1  31  ~/text.txt
--'  1  31  ~/text.txt
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  108  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  40  ~/randomdir/anotherrandomfile.txt
+-'  1  19  ~/file.html
+-'  1  18  ~/file.xml
+-'  1  18  ~/file.xml
+-'  1  19  ~/file.html
+-'  1  18  ~/file.xml
+-'  1  18  ~/file.xml
+-'  1  40  ~/randomdir/anotherrandomfile.txt
+-'  1  19  ~/file.html
+-'  1  18  ~/file.xml
+-'  1  18  ~/file.xml
+-'  1  19  ~/file.html
+-'  1  18  ~/file.xml
+-'  1  18  ~/file.xml
 
 # History of marks within files (newest to oldest):
+
+> ~/text.txt
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/.ssh/id_rsa.pub
 	"	1	0
@@ -124,9 +116,3 @@
 	^	1	19
 	.	1	18
 	+	1	18
-
-> ~/text.txt
-	"	1	31
-	^	1	32
-	.	1	31
-	+	1	31
